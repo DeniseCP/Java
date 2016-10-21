@@ -37,7 +37,7 @@ public class _C {
 		//System.out.println(DigitSum.digit_sum(135));
 		//System.out.println(DigitSum.sum(135));
 		
-		System.out.println(Palimdrome.is_numeric_palindrome(12));
+		System.out.println(Palimdrome.is_numeric_palindrome(1));
 	}
 
 }

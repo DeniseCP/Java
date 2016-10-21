@@ -11,7 +11,6 @@ public class Palimdrome {
 		if (str.toString().equals(s)) {
 			return true;
 		}
-
 		return false;
 	}
 
